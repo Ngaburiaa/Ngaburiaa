@@ -7,6 +7,8 @@
 ## 📊 GitHub Stats
 
 <!-- GitHub Streak Stats -->
+<!-- GitHub Contribution Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ngaburiaa&theme=dark&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ngaburiaa&theme=dark&hide_border=true)
 ![Dennis GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ngaburiaa&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngaburiaa&layout=compact&theme=dark&hide_border=true)
